@@ -17,22 +17,18 @@ Welcome to my GitHub profile! I'm a passionate software developer who loves to b
 
 ## 🛠️ Technologies & Tools
 - **Languages**: JavaScript, Python, Java, PHP, SQL
-- **Frameworks**: React, Tailwind CSS, AngularJS
+- **Frameworks**: React, Tailwind CSS, NextJS
 - **Tools**: Vite, Redux, Docker, Git
 - **Libraries**: react-toastify, Bootstrap
 - **Databases**: MySQL, MongoDB
-- **Machine Learning**: TensorFlow, Keras, Scikit-learn
 
 ## 💬 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/amandeep-singh-khalsa/)
-- [Twitter](https://twitter.com/amandeepkhalsa)
-- [Website/Portfolio](https://yourportfolio.com) *(if applicable)*
+- [Instagram](https://www.instagram.com/__amandeep.singh_/)
 
-## 📈 GitHub Stats
-![Amandeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amandeep-Singh-Khalsa&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ## 🚀 Open Source Contributions
-I actively contribute to open-source projects. Check out my repositories for more!
+I actively contribute to open-source projects.
 
 ## 🎯 Goal
 - Complete the **100DaysOfCode** challenge and build more impactful projects.
