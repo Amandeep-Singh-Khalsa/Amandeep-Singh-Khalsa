@@ -34,8 +34,9 @@ Amandeep Singh Khalsa
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align = "center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+</p>
 
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
