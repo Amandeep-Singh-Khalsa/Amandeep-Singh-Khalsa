@@ -11,14 +11,6 @@
 <br> I am a full stack software developer with expertise in front-end and back-end development, adept at solving
 complex problems through efficient code and contributing to team-driven development projects.<br><br>-📫 How to reach me : amandeepsk1512@gmail.com
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" height="200">
-   
-<br>
-<b>👇 Hit in Your Console or Terminal to Connect With Me.</b>
-
-```bash
-Amandeep Singh Khalsa
-```
-**👆 This Command Line Tool can be Found at [Amandeep Singh Khalsa](https://github.com/Amandeep-Singh-Khalsa)**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amandeep-singh-khalsa) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__amandeep.singh_) 
